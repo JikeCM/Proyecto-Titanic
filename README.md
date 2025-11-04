@@ -10,7 +10,7 @@
 ## ANÁLISIS DEL PROBLEMA
 Se nos pide hacer un programa en donde el servicio de emergencia vea cuanta gente hay en los botes(aleatorio) y luego calcule el total de gente y lo redacte en un informe.
 ## DISEÑO DE LA SOLUCIÓN
-![alt text](doc\image.png)
+![imagen diseño](doc/image.png)
 ## MANUAL DE USUARIO
 El uso del programa es simple, solo necesitas hacer en la terminar **mvn compile install** para generar el directoro target y asegurarte de estar en el directorio raiz **TITANIC** al final solo hace falta darle a iniciar en servicio para que todo vaya bien.
 ## ELEMENTOS DESTACABLES DEL DESARROLLO
